@@ -10,3 +10,13 @@ building a datawarehouse with SQL server, including ETL processes, data modeling
 
  
 ![Diagramme sans nom](https://github.com/user-attachments/assets/f423064f-7269-4919-b643-1a320791b380)
+
+Here you will find the data flow schema to build the datawarehouse
+
+![data flow](https://github.com/user-attachments/assets/57eb7727-a4d4-4462-acb6-6381c11bfbe3)
+
+and here you finaly see the star schema in the gold layer that we use as business data for the dashboard
+
+![star schema](https://github.com/user-attachments/assets/906ad12b-e387-44f7-ad87-cc464f51d533)
+
+
